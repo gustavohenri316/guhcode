@@ -10,10 +10,10 @@ function Header () {
             <div>
                 <button>Novo Post</button>
                 <span>Img1</span>
-                <span>Img1</span>
+                <span>Img1 </span>
             </div>
         </div>
     </header>
     )
 }
-export default Header;
+export default Header;q
